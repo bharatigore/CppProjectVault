@@ -1,6 +1,6 @@
 /*$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$                                                                                          $$              
-$$ PROJECT NAME : Customized Standard Template Data Structure Library                       $$
+$$ PROJECT NAME : DSALibrary(Data structure Library )                                       $$
 $$                     (Linear and Non-Linear Data Structures)                              $$
 $$                                                                                          $$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
